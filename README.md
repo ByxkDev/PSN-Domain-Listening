@@ -7,6 +7,7 @@ it will listen and directly put the output into a log.txt file.
 
 
 
+
 updns.exe: https://github.com/wyhaya/updns <3
 
 (updns is a simple DNS proxy server developed using Rust. You can intercept any domain name and return the ip you need)
