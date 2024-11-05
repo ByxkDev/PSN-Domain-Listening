@@ -1,5 +1,5 @@
 # PSN-Domain-Listening
-code made in node.js for dns domain listening. 
+code made in JavaScript for dns domain listening. 
 
 run in cmd with -> node listDomains.js
 
